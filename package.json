@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0"
+  },
+  "name": "flexbox-course",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/firebird2552/flexbox-copurse.git",
+  "author": "firebird2552 <firebird2552@gmail.com>",
+  "license": "MIT"
+}
